@@ -162,6 +162,10 @@ body{
     line-height: 50px;
     color: #0B132A;
     margin-bottom: 20px;
+    width: 383px;
+    height: 100px;
+    margin-left: 25px;
+    margin-right: 50px;
 }
 
 .servic-text{
@@ -169,6 +173,7 @@ body{
     line-height: 30px;
     color: #4F5665;
     margin-bottom: 20px;
+    margin-left: 25px;
 }
 
 .servis-list-item{
@@ -181,7 +186,7 @@ body{
 }
 
 .servic-item{
-    margin-left: 10px;
+    margin-left: 50px;
     position: relative;
 }
 
@@ -319,6 +324,10 @@ body{
     text-align: center;
     color: #0b132a;
     margin-bottom: 20px;
+    width: 381px;
+    height: 100px;
+    margin-left: 330px;
+    margin-right: 95px;
 }
 
 .network-text{
@@ -348,6 +357,10 @@ body{
     text-align: center;
     color: #0B132A;
     margin-bottom: 20px;
+    width: 447px;
+    height: 100px;
+    margin-left: 330px;
+    margin-right: 90px;
 }
 
 .customer-text{
@@ -356,6 +369,11 @@ body{
     text-align: center;
     color: #4F5665;
     margin-bottom: 60px;
+    width: 555px;
+    height: 60px;
+    margin-left: 300px;
+    margin-right: 90px;
+
 }
 
 .all{
