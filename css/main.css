@@ -180,6 +180,11 @@ body{
     
 }
 
+.servic-item{
+    margin-left: 10px;
+    position: relative;
+}
+
 .servic-item::before{
     content: '';
     display: inline-block;
@@ -187,6 +192,10 @@ body{
     height: 24px;
     background-image: url('../images/true-pic.svg');
     background-repeat: no-repeat;
+    position: absolute;
+    left: -35px;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .servic-item{
@@ -241,6 +250,22 @@ body{
 
 .plan-item{
     margin-bottom: 10px;
+    margin-left: 10px;
+    position: relative;
+}
+
+.plan-item::before{
+    content: '';
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-image: url('../images/true-pic.svg');
+    background-repeat: no-repeat;
+    background-position: cover;
+    position: absolute;
+    left: -35px;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .in-free{
