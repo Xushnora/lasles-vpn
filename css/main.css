@@ -379,7 +379,9 @@ body{
 .all{
     margin-bottom: 60px;
 }
-
+.friends-item{
+    padding: 10px;
+}
 .inner{
     border: 2px solid black;
     height: 300px;
